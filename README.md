@@ -1,2 +1,2 @@
 # basic-website
-basit scs websitesi
+basit css websitesi
